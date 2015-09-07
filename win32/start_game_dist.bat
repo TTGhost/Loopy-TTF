@@ -6,7 +6,7 @@ cd ..
 
 set /P ttmUsername="Username: "
 set /P ttmPassword="Password: "
-set TTM_GAMESERVER=littletooncat.es.vc
+set TTM_GAMESERVER=192.99.4.108
 
 set TTM_PLAYCOOKIE=%ttmUsername%:%ttmPassword%
 
